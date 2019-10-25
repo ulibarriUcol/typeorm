@@ -1,0 +1,23 @@
+{
+  "name": "type-orm",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "typeorm": "^0.2.20"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ulibarriUcol/typeorm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ulibarriUcol/typeorm/issues"
+  },
+  "homepage": "https://github.com/ulibarriUcol/typeorm#readme",
+  "description": ""
+}
