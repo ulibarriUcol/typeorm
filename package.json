@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "dependencies": {
-    "typeorm": "^0.2.20"
+    "typeorm": "^0.2.25"
   },
   "devDependencies": {},
   "scripts": {
